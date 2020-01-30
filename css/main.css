@@ -1,0 +1,184 @@
+/* Fonts............................................. */
+
+.sans-regular {
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sans-italic {
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.sans-bold {
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.decorative {
+  font-family: chauncy-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.decorative-bold {
+  font-family: chauncy-pro, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.decorative-bold-italic {
+  font-family: chauncy-pro, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.freight-book {
+  font-family: freight-text-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.freight-book-italic {
+  font-family: freight-text-pro, serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.freight-bold {
+  font-family: freight-text-pro, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.freight-bold-italic {
+  font-family: freight-text-pro, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Content............................................. */
+
+html {
+  font-family: freight-text-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.banner {
+  height: 10em;
+  width: 100%;
+  background-color: rgba(150, 40, 60, 1);
+  box-shadow: 0 3px 5px #555;
+  overflow: hidden;
+}
+
+h1 {
+  color: #fff;
+}
+
+.pink {
+  color: pink;
+}
+
+h3 {
+  bottom: 0;
+  margin-bottom: 0;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.max-w {
+  width: 36em;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.dark-red {
+  color: rgba(150, 40, 60, 1);
+}
+
+article {
+  width: 36em;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+nav {
+  width: 100%;
+}
+
+nav .btn {
+  width: 100%;
+  background-color: rgba(150, 40, 60, 1);
+  color: #fff;
+}
+
+nav .btn-ghost:hover {
+  background-color: pink;
+}
+
+nav .current {
+  background-color: rgba(119, 30, 46, 1);
+}
+
+.card {
+  border-radius: 10px;
+  height: 6em;
+  overflow: hidden;
+  box-shadow: 0 3px 5px #555;
+  color: #fff;
+}
+
+.card:hover {
+  color: transparent;
+}
+
+.overlay {
+  background-color: rgba(37, 47, 57, .7);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.overlay:hover {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.featured {
+  max-height: 15em;
+  overflow: hidden;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 3px 5px #555;
+  margin: 1em;
+}
+
+.recipe-photo {
+  max-height: 10em;
+  overflow: hidden;
+  margin: 1em 0;
+  border-radius: 15px;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+footer small {
+  background-color: rgba(150, 40, 60, 1);
+  box-shadow: 0 -3px 5px #555;
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 10em 0 .5em;
+}
