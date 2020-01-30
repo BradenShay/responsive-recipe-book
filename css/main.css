@@ -2,62 +2,62 @@
 
 .sans-regular {
   font-family: forma-djr-banner, sans-serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
 .sans-italic {
   font-family: forma-djr-banner, sans-serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: italic;
 }
 
 .sans-bold {
   font-family: forma-djr-banner, sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 }
 
 .decorative {
   font-family: chauncy-pro, sans-serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
 .decorative-bold {
   font-family: chauncy-pro, sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
   text-decoration: none;
 }
 
 .decorative-bold-italic {
   font-family: chauncy-pro, sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: italic;
 }
 
 .freight-book {
   font-family: freight-text-pro, serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
 .freight-book-italic {
   font-family: freight-text-pro, serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: italic;
 }
 
 .freight-bold {
   font-family: freight-text-pro, serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 }
 
 .freight-bold-italic {
   font-family: freight-text-pro, serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -65,7 +65,7 @@
 
 html {
   font-family: freight-text-pro, serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
